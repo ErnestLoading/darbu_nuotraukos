@@ -24,6 +24,3 @@ Užsakyta tačiau dar negauta.
 
 ## UVC lempa ir valdimo plokštė
 <img width="400" alt="UVC" src="https://github.com/user-attachments/assets/0c05c680-5b73-447a-ba55-39f33329a237" />
-
-
-Kita galėsiu ikelti tik kai gryšiu i Lietuva.
