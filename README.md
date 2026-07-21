@@ -4,6 +4,7 @@
 ## Skaitmeninis LCR matuoklis (100 kHz)
 <img width="400" alt="LCR" src="https://github.com/user-attachments/assets/55ff5d71-f01f-4a11-a278-88acf9d7d9b1" />
 <img width="400" alt="LCR (2)" src="https://github.com/user-attachments/assets/cbefb799-dfcd-4d7d-9899-d3299154f97c" />
+
 Surinkta ir sulituota plokštė, veikiantis prototipas su 3D spausdintu korpusu. Šiuo metu programuoju.
 
 ## Kontaktinio suvirinimo (spot welding) valdiklis
